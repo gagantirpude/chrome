@@ -13,12 +13,12 @@
     position: fixed;
     top: 0;
     left: 0;
-    /* background: #000000 no-repeat url(image/1224696.png) center; */
-    background: #000000 no-repeat url(O:/Wallpapers/1224696.png) center;
+    background: #000000 no-repeat url(image/1224696.png) center;
+    /* background: #000000 no-repeat url(O:/Wallpapers/1224696.png) center; */
     /* background: #f9a no-repeat url("https://pin.it/6rrP0zAQe") center; */
 
-    /* background-size: cover; */
-    background-size: contain;
+    background-size: cover;
+    /* background-size: contain; */
     /* background-size: initial; */
     width: 100vw;
     height: 100vh;
